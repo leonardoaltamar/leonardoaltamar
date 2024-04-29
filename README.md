@@ -6,10 +6,10 @@ Hi, I'm Leonardo Altamar!
 </h1>
 <p align="center">
 	<a href="https://github.com/leonardoaltamar">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=leonardoaltamar&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoaltamar" />
 	</a>
 	<a href="https://github.com/leonardoaltamar">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/leonardoaltamar?label=Followers" alt="leonardoaltamar" />
 	</a>
 </p>
 <br/>
